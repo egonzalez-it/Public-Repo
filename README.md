@@ -37,7 +37,7 @@ This repository is designed to:
 ```text
 Public-Repo/
 │
-├── Activedirectory
+├── Activedirectory/
 ├── Exchange365/
 ├── Intune/
 └── Docs/
