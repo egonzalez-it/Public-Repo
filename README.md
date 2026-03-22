@@ -22,6 +22,7 @@ This repository is designed to:
 
 ## 🧰 Technologies Covered
 
+- Active Directory
 - Microsoft Intune (Endpoint Management)
 - Azure / Entra ID
 - Microsoft 365
@@ -36,7 +37,7 @@ This repository is designed to:
 ```text
 Public-Repo/
 │
-├── Intune/
-├── Azure/
+├── Activedirectory
 ├── Exchange365/
+├── Intune/
 └── Docs/
