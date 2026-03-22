@@ -15,6 +15,7 @@ It checks for the following permissions:
 
 - Full Access  
 - Send As  
+- Send on Behalf
 
 Designed for IT administrators who need a quick and reliable way to audit user access to shared mailboxes.
 
