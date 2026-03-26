@@ -52,6 +52,7 @@ Connect-ExchangeOnline
 ## Usage
 
 ```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\Get-SharedMailboxAccess.ps1 -UserEmail user@company.com
 ```
 ---
